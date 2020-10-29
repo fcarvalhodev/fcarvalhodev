@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Fábio! I'm a bacharel in computer information systems, with 6+ years of experience in software development.
+I'm Fábio! I'm a bacharelor in computer information systems, with 6+ years of experience in software development.
 
 - 🔭 I’m currently working at Reply as a Software Architect
 - 🌱 I’m currently learning Japanese [:O] and also GCP/Azure/AWS
