@@ -22,7 +22,9 @@ I'm Fábio! I'm a bacharel in computer information systems, with 6+ years of exp
 
 **GitHub Stats**
 <p align="center">
+   <details>
   <img align="left" alt="fcrvalhostats's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fcarvalllho&show_icons=true&hide_border=true" />
+   </details>
 </p>
 
 ---
