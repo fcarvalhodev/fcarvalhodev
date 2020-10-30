@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello there! 👋
 
 I'm Fábio! I'm a bacharelor in computer information systems, with 6+ years of experience in software development.
 
